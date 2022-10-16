@@ -27,7 +27,7 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=WC3parser&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true)](https://activity-graph.herokuapp.com)
 
-[![WC3parser's GitHub stats](https://github-readme-stats.vercel.app/api?username=WC3parser&show_icons=true&theme=react)](https://github.com/WC3parser) 
+[![WC3parser's GitHub stats](https://github-readme-stats.vercel.app/api?username=WC3parser&amp;show_icons=true&theme=react)](https://github.com/WC3parser) 
   
 <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img>  <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img>[![GitHub Streak](https://streak-stats.demolab.com?user=WC3parser&theme=react&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
