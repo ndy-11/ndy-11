@@ -5,12 +5,11 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 🌱 Learn About :
 
 - Web Development
-- AI 
-- IOT
+- Front End Development
 - Cloud Engineering
 
 # Contact 
-
+  - sandyirawan53@gmail.com
 
 
 # Tools:
