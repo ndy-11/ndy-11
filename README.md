@@ -32,4 +32,4 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndy-11&layout=compact&theme=react)](https://github.com/ndy-11)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndy-11&repo=github-readme-stats)](https://github.com/ndy-11/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndy-11&repo=github-readme-stats)](https://github.com/ndy-11)
