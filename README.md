@@ -30,6 +30,6 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
   
 <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img>  <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img> <img></img>[![GitHub Streak](https://streak-stats.demolab.com?user=ndy-11&theme=react&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndy-11&layout=compact&theme=react)](https://github.com/ndy-11)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndy-11&layout=donut)](https://github.com/ndy-11) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndy-11&repo=github-readme-stats)](https://github.com/ndy-11)
+
