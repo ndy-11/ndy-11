@@ -1,6 +1,6 @@
 🤙 I’m a New web designer and developer that tries to help other people get better at those things.
 
-I’m a newbie for web designers and developers. CodePen is a front-end focused IDE in the browser, allowing people to write HTML, CSS, JavaScript, and related languages. It’s as much of a community and social network as a coding platform.
+I’m a newbie for web designers and developers. CodePen is a front-end focused IDE in the browser, allowing people to write HTML, CSS, JavaScript, PHP and related languages. It’s as much of a community and social network as a coding platform.
 
 🌱 Learn About :
 
