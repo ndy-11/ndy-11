@@ -26,8 +26,10 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 
 [![ndy-11's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndy-11&amp;show_icons=true&theme=react)](https://github.com/ndy-11) 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=ndy-11&theme=react&hide_border=true&border_radius=4.6&locale=id)](https://git.io/streak-stats)
+<style>
+  .margin-left : 200px;
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ndy-11&theme=react&hide_border=true&border_radius=4.6&locale=id)](https://git.io/streak-stats)
+
+</style>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndy-11&amp;show_icons=true&theme=react&layout=donut)](https://github.com/ndy-11) 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ndy-11)](https://git.io/streak-stats)
