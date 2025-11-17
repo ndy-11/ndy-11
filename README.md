@@ -6,6 +6,7 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 
 - Web Development
 - Front End Development
+- Network Engineer
   
 # Contact 
   - sandyirawan53@gmail.com
