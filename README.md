@@ -25,7 +25,7 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 ![PuTTY](https://img.shields.io/badge/PuTTY-1D59A8?style=flat-rounded&logo=putty&logoColor=white)
 ![mRemoteNG](https://img.shields.io/badge/mRemoteNG-1F1F1F?style=flat-rounded&logo=microsoft-remote-desktop&logoColor=white)
 ![Netacad](https://img.shields.io/badge/Cisco%20Netacad-1BA0D7?style=flat-rounded&logo=cisco&logoColor=white)
-![LTS](https://img.shields.io/badge/LTS-4CAF50?style=flat-rounded&logo=canonical&logoColor=white)
+![LTS](https://img.shields.io/badge/LTS-E95420?style=flat-rounded&logo=canonical&logoColor=white)
 
 
 # Also use and work
