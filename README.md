@@ -17,8 +17,9 @@ I’m a newbie for web designers and developers. CodePen is a front-end focused 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-rounded&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-rounded&logo=gitlab&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-rounded&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-38C277?style=flat-rounded&logo=apache-netbeans-ide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=flat-rounded&logo=mysql&logoColor=white)
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-rounded&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-rounded&logo=postgresql&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-rounded&logo=vuedotjs&logoColor=white)
